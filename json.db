@@ -1,0 +1,82 @@
+{
+  "estaciones": [
+    {
+      "ID_ESTACION": 8,
+      "ID_TRONCAL": 1,
+      "NOMBRE_ESTACION": "U.NACIONAL",
+      "TIPO_ESTACION": "E"
+    },
+    {
+      "ID_ESTACION": 9,
+      "ID_TRONCAL": 1,
+      "NOMBRE_ESTACION": "AV.EL DORADO",
+      "TIPO_ESTACION": "E"
+    },
+    {
+      "ID_ESTACION": 10,
+      "ID_TRONCAL": 1,
+      "NOMBRE_ESTACION": "PALOQUEMAO",
+      "TIPO_ESTACION": "E"
+    },
+    {
+      "ID_ESTACION": 11,
+      "ID_TRONCAL": 1,
+      "NOMBRE_ESTACION": "ESC MILITAR",
+      "TIPO_ESTACION": "E"
+    },
+    {
+      "ID_ESTACION": 12,
+      "ID_TRONCAL": 3,
+      "NOMBRE_ESTACION": "PATIO BONITO",
+      "TIPO_ESTACION": "E"
+    },
+    {
+      "ID_ESTACION": 13,
+      "ID_TRONCAL": 3,
+      "NOMBRE_ESTACION": "BIBLIOTECA TINTAL",
+      "TIPO_ESTACION": "E"
+    },
+    {
+      "ID_ESTACION": 14,
+      "ID_TRONCAL": 3,
+      "NOMBRE_ESTACION": "TRANSVERSAL 86",
+      "TIPO_ESTACION": "E"
+    },
+    {
+      "ID_ESTACION": 15,
+      "ID_TRONCAL": 3,
+      "NOMBRE_ESTACION": "BANDERAS",
+      "TIPO_ESTACION": "E"
+    },
+    {
+      "ID_ESTACION": 16,
+      "ID_TRONCAL": 3,
+      "NOMBRE_ESTACION": "MANDALAY",
+      "TIPO_ESTACION": "E"
+    },
+    {
+      "ID_ESTACION": 17,
+      "ID_TRONCAL": 3,
+      "NOMBRE_ESTACION": "MUNDO AVENTURA",
+      "TIPO_ESTACION": "E"
+    },
+    {
+      "ID_ESTACION": 18,
+      "ID_TRONCAL": 3,
+      "NOMBRE_ESTACION": "MARSELLA",
+      "TIPO_ESTACION": "E"
+    },
+    {
+      "ID_ESTACION": 19,
+      "ID_TRONCAL": 3,
+      "NOMBRE_ESTACION": "PRADERA",
+      "TIPO_ESTACION": "E"
+    },
+    {
+      "ID_ESTACION": 20,
+      "ID_TRONCAL": 3,
+      "NOMBRE_ESTACION": "AMERICAS KR. 53A",
+      "TIPO_ESTACION": "E"
+    }
+  ]
+}
